@@ -1,7 +1,7 @@
 # go-csv
 
 The `go-csv` package provides an easy-to-use interface for generating CSV files with concurrent processing. This package is particularly useful for handling large datasets and performing stream processing.
-For detail explanation about concurrent & streaming processing please visit [https://goblog.dev/articles/39](Stream and Concurrent Processing in Programming)
+For detail explanation about concurrent & streaming processing please visit [Stream and Concurrent Processing in Programming](https://goblog.dev/articles/39)
 
 ## Installation
 
